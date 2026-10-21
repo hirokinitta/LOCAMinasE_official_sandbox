@@ -1,0 +1,2 @@
+# LOCAMinasE_official_sandbox
+私個人のポートフォリオ兼オフィシャルサイトです。
